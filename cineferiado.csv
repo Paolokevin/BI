@@ -1,0 +1,501 @@
+Numero_acompañantes;edad;frecuencia_mensual;Gasto;Genero;RESIDENCIA;CINE;LUGAR;Calificacion_atencion;Semana;Mejora
+6;37;1;80;Masculino;La Molina;OTRO;Ubicación;Malo;Domingo;Promociones
+1;32;4;75;Femenino;Barranco;CINEMARK;Buena Atención;Excelente;Martes;Promociones
+1;51;2;83;Femenino;San Borja;OTRO;Calidad de Salas;Excelente;Viernes;Seguridad
+2;37;4;77;Masculino;Miraflores;CINEMARK;Buena Cartelera;Pésimo;Martes;Puntualidad
+6;43;6;72;Femenino;Los Olivos;UVK;Amplio Estacionamiento;Excelente;Viernes;Higiene
+1;75;5;75;Femenino;Barranco;UVK;Ubicación;Excelente;Miercoles;Puntualidad
+2;27;2;83;Masculino;Surco;UVK;Ubicación;Excelente;Viernes;Puntualidad
+3;38;6;72;Femenino;Surco;CINERAMA;Ubicación;Pésimo;Martes;Puntualidad
+3;79;14;43;Femenino;Miraflores;CINEMARK;Ubicación;Excelente;Viernes;Puntualidad
+5;12;5;75;Femenino;San Borja;CINEMARK;Calidad de Salas;Excelente;Martes;Horarios
+5;70;1;85;Femenino;Barranco;CINEMARK;Buenos Precios;Excelente;Martes;Promociones
+4;76;4;77;Femenino;Miraflores;UVK;Calidad de Salas;Malo;Viernes;Horarios
+1;54;7;53;Masculino;Barranco;CINEPLANET;Amplio Estacionamiento;Muy Malo;Martes;Horarios
+4;28;4;77;Femenino;Miraflores;UVK;Calidad de Salas;Excelente;Sabado;Comodidad
+1;76;4;80;Femenino;La Molina;CINEMARK;Calidad de Salas;Excelente;Jueves;Horarios
+3;82;4;78;Masculino;Surco;CINEMARK;Buenos Precios;Muy Malo;Viernes;Promociones
+4;20;4;77;Femenino;La Molina;CINEMARK;Amplio Estacionamiento;Muy bueno;Viernes;Puntualidad
+3;42;4;73;Masculino;Los Olivos;UVK;Buena Cartelera;Excelente;Viernes;Higiene
+2;44;7;53;Masculino;Miraflores;OTRO;Amplio Estacionamiento;Muy bueno;Martes;Horarios
+1;38;7;45;Masculino;San Borja;UVK;Buenos Precios;Pésimo;Lunes;Puntualidad
+3;39;12;55;Femenino;Surco;CINEMARK;Calidad de Salas;Malo;Lunes;Puntualidad
+6;76;7;73;Femenino;Miraflores;UVK;Ubicación;Excelente;Jueves;Puntualidad
+4;11;7;73;Masculino;San Juan de Lurigancho;UVK;Calidad de Salas;Regular;Domingo;Puntualidad
+5;88;1;85;Masculino;Barranco;CINEPLANET;Ubicación;Malo;Viernes;Horarios
+4;23;2;85;Femenino;La Molina;CINEMARK;Amplio Estacionamiento;Bueno;Martes;Horarios
+1;76;12;55;Femenino;San Miguel;CINESTAR;Calidad de Salas;Excelente;Miercoles;Puntualidad
+4;36;7;73;Femenino;La Molina;CINEMARK;Buena Cartelera;Bueno;Domingo;Comodidad
+1;43;2;85;Femenino;Surco;CINESTAR;Calidad de Salas;Muy Malo;Sabado;Puntualidad
+4;65;4;80;Masculino;Barranco;CINEPLANET;Ubicación;Excelente;Viernes;Puntualidad
+5;81;6;72;Femenino;San Miguel;UVK;Buena Cartelera;Excelente;Martes;Seguridad
+1;20;12;55;Femenino;La Molina;CINEMARK;Buenos Precios;Muy bueno;Viernes;Horarios
+6;69;2;85;Masculino;Miraflores;CINESTAR;Buena Atención;Malo;Domingo;Horarios
+1;10;4;77;Masculino;Surco;CINERAMA;Buena Cartelera;Muy bueno;Martes;Puntualidad
+1;40;14;43;Femenino;San Borja;CINEMARK;Amplio Estacionamiento;Muy Malo;Martes;Horarios
+1;42;6;72;Masculino;La Molina;CINERAMA;Calidad de Salas;Pésimo;Domingo;Horarios
+1;40;2;83;Masculino;San Juan de Lurigancho;CINEMARK;Buena Atención;Bueno;Viernes;Seguridad
+3;19;28;15;Femenino;Barranco;CINEMARK;Calidad de Salas;Malo;Martes;Higiene
+5;68;3;83;Masculino;La Molina;UVK;Calidad de Salas;Excelente;Sabado;Higiene
+5;21;2;83;Femenino;La Molina;CINEMARK;Buena Atención;Muy bueno;Martes;Puntualidad
+6;57;7;53;Femenino;Miraflores;CINEMARK;Buena Cartelera;Excelente;Domingo;Puntualidad
+3;51;11;58;Masculino;La Molina;UVK;Calidad de Salas;Pésimo;Sabado;Puntualidad
+5;79;4;83;Femenino;Surco;CINEPLANET;Buenos Precios;Bueno;Lunes;Seguridad
+6;41;17;43;Masculino;San Miguel;CINEMARK;Calidad de Salas;Bueno;Domingo;Horarios
+2;90;12;55;Masculino;Surco;UVK;Amplio Estacionamiento;Muy bueno;Jueves;Puntualidad
+4;10;4;83;Masculino;La Molina;CINEMARK;Buenos Precios;Excelente;Jueves;Precios
+6;46;4;75;Femenino;Lince;CINESTAR;Calidad de Salas;Muy bueno;Martes;Precios
+5;54;5;75;Masculino;La Molina;CINEMARK;Buenos Precios;Muy bueno;Sabado;Precios
+2;85;6;72;Masculino;Barranco;UVK;Amplio Estacionamiento;Regular;Viernes;Seguridad
+1;36;8;55;Femenino;San Borja;CINEPLANET;Ubicación;Muy Malo;Martes;Promociones
+4;38;28;13;Masculino;San Miguel;UVK;Amplio Estacionamiento;Regular;Viernes;Promociones
+3;41;8;55;Masculino;Los Olivos;CINESTAR;Buena Atención;Malo;Martes;Precios
+5;31;13;53;Masculino;Miraflores;UVK;Ubicación;Muy bueno;Miercoles;Comodidad
+5;53;9;55;Femenino;Los Olivos;CINERAMA;Amplio Estacionamiento;Bueno;Viernes;Comodidad
+4;80;7;73;Femenino;Lince;CINEMARK;Calidad de Salas;Muy Malo;Martes;Puntualidad
+1;22;12;55;Femenino;Miraflores;CINEPLANET;Calidad de Salas;Pésimo;Martes;Puntualidad
+4;37;2;83;Masculino;San Borja;CINEPLANET;Buenos Precios;Excelente;Martes;Higiene
+2;48;7;53;Masculino;Miraflores;CINERAMA;Ubicación;Muy bueno;Viernes;Horarios
+5;40;3;83;Femenino;San Juan de Lurigancho;CINERAMA;Buenos Precios;Muy bueno;Martes;Higiene
+1;71;12;55;Femenino;Barranco;CINESTAR;Buena Atención;Malo;Domingo;Puntualidad
+1;83;11;58;Femenino;Lince;CINEMARK;Buenos Precios;Malo;Martes;Precios
+4;29;6;72;Femenino;Barranco;UVK;Buenos Precios;Muy bueno;Jueves;Higiene
+4;28;9;53;Femenino;Surco;UVK;Buena Cartelera;Malo;Lunes;Horarios
+2;49;6;72;Masculino;San Borja;UVK;Calidad de Salas;Malo;Viernes;Promociones
+3;47;17;41;Femenino;San Miguel;OTRO;Buena Atención;Excelente;Viernes;Puntualidad
+6;24;14;43;Masculino;Los Olivos;UVK;Buena Cartelera;Excelente;Viernes;Precios
+6;90;4;77;Masculino;San Juan de Lurigancho;CINEMARK;Calidad de Salas;Pésimo;Martes;Puntualidad
+1;13;4;77;Femenino;La Molina;UVK;Calidad de Salas;Muy bueno;Martes;Comodidad
+5;35;11;58;Masculino;Surco;CINESTAR;Buena Atención;Bueno;Martes;Horarios
+1;51;11;58;Masculino;San Miguel;CINEMARK;Buena Cartelera;Pésimo;Domingo;Puntualidad
+4;54;28;13;Femenino;Lince;CINEPLANET;Amplio Estacionamiento;Muy Malo;Sabado;Precios
+4;55;5;75;Femenino;Surco;CINEPLANET;Amplio Estacionamiento;Bueno;Jueves;Higiene
+5;23;13;52;Femenino;Barranco;UVK;Buenos Precios;Regular;Viernes;Puntualidad
+4;23;10;51;Femenino;Barranco;CINEMARK;Buenos Precios;Excelente;Martes;Seguridad
+1;29;3;83;Femenino;Miraflores;CINEMARK;Amplio Estacionamiento;Regular;Viernes;Comodidad
+1;38;5;75;Femenino;San Miguel;CINEMARK;Ubicación;Malo;Martes;Puntualidad
+3;33;2;83;Femenino;San Borja;OTRO;Buenos Precios;Muy bueno;Domingo;Precios
+5;51;1;85;Masculino;San Miguel;CINERAMA;Calidad de Salas;Muy Malo;Miercoles;Promociones
+1;12;12;55;Femenino;San Juan de Lurigancho;CINEPLANET;Calidad de Salas;Muy bueno;Martes;Seguridad
+3;33;4;75;Femenino;La Molina;UVK;Buena Cartelera;Regular;Martes;Puntualidad
+1;30;1;85;Masculino;San Juan de Lurigancho;UVK;Ubicación;Excelente;Martes;Puntualidad
+2;23;4;77;Femenino;La Molina;MOVIETIME;Buena Cartelera;Bueno;Sabado;Precios
+1;71;16;45;Femenino;San Juan de Lurigancho;CINEMARK;Buena Atención;Muy Malo;Lunes;Horarios
+1;45;24;25;Masculino;Surco;CINEMARK;Buena Cartelera;Pésimo;Martes;Comodidad
+4;11;1;85;Femenino;Miraflores;UVK;Calidad de Salas;Malo;Viernes;Precios
+5;33;24;22;Masculino;San Borja;CINEMARK;Ubicación;Muy bueno;Domingo;Promociones
+1;31;1;85;Femenino;Surco;OTRO;Calidad de Salas;Muy Malo;Sabado;Horarios
+3;88;13;52;Femenino;Barranco;CINEMARK;Buena Cartelera;Excelente;Jueves;Promociones
+1;30;11;58;Femenino;Lince;CINEMARK;Ubicación;Excelente;Sabado;Horarios
+4;83;8;55;Femenino;Lince;MOVIETIME;Buena Cartelera;Muy bueno;Viernes;Higiene
+1;40;2;83;Femenino;Barranco;UVK;Calidad de Salas;Excelente;Viernes;Puntualidad
+4;71;12;55;Femenino;San Juan de Lurigancho;MOVIETIME;Amplio Estacionamiento;Muy bueno;Martes;Horarios
+1;23;2;83;Femenino;Lince;UVK;Buena Cartelera;Excelente;Domingo;Seguridad
+4;79;9;53;Femenino;La Molina;CINESTAR;Buena Cartelera;Pésimo;Sabado;Puntualidad
+6;79;7;53;Femenino;San Juan de Lurigancho;CINEMARK;Buena Cartelera;Muy bueno;Viernes;Seguridad
+6;38;13;52;Masculino;La Molina;CINEMARK;Buena Atención;Pésimo;Viernes;Precios
+3;72;1;85;Femenino;San Borja;CINEMARK;Ubicación;Muy bueno;Domingo;Higiene
+3;33;10;51;Masculino;Los Olivos;OTRO;Calidad de Salas;Muy bueno;Sabado;Promociones
+1;82;4;77;Femenino;San Miguel;MOVIETIME;Calidad de Salas;Malo;Martes;Precios
+2;22;10;51;Femenino;Barranco;UVK;Buenos Precios;Muy bueno;Miercoles;Seguridad
+4;37;16;44;Femenino;La Molina;MOVIETIME;Buenos Precios;Muy Malo;Martes;Puntualidad
+6;68;13;52;Femenino;Miraflores;UVK;Ubicación;Regular;Jueves;Puntualidad
+3;83;6;72;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Atención;Muy bueno;Viernes;Comodidad
+1;38;16;44;Femenino;Surco;UVK;Buenos Precios;Muy bueno;Miercoles;Comodidad
+1;46;7;53;Masculino;La Molina;CINEMARK;Ubicación;Muy Malo;Viernes;Comodidad
+1;38;4;77;Femenino;Surco;OTRO;Buena Cartelera;Bueno;Sabado;Higiene
+5;87;6;72;Masculino;Miraflores;CINEMARK;Buena Cartelera;Bueno;Viernes;Puntualidad
+4;39;2;83;Masculino;San Borja;UVK;Calidad de Salas;Muy Malo;Miercoles;Puntualidad
+3;65;8;55;Masculino;Miraflores;CINEMARK;Buena Cartelera;Excelente;Lunes;Promociones
+3;40;13;52;Femenino;Lince;CINEPLANET;Buenos Precios;Malo;Jueves;Higiene
+1;13;8;55;Femenino;San Miguel;MOVIETIME;Amplio Estacionamiento;Bueno;Lunes;Promociones
+1;28;10;51;Femenino;La Molina;OTRO;Amplio Estacionamiento;Malo;Martes;Comodidad
+1;25;3;83;Masculino;Surco;UVK;Calidad de Salas;Excelente;Miercoles;Higiene
+4;40;16;44;Femenino;San Borja;UVK;Buena Atención;Muy bueno;Viernes;Horarios
+3;22;12;55;Masculino;San Miguel;UVK;Calidad de Salas;Bueno;Miercoles;Horarios
+1;39;7;53;Masculino;San Borja;CINEMARK;Calidad de Salas;Muy bueno;Sabado;Horarios
+2;89;28;13;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Muy bueno;Miercoles;Seguridad
+1;51;13;52;Femenino;Barranco;CINEMARK;Calidad de Salas;Excelente;Lunes;Promociones
+1;82;4;77;Masculino;Lince;OTRO;Buenos Precios;Excelente;Domingo;Horarios
+3;80;2;83;Femenino;Surco;UVK;Calidad de Salas;Muy bueno;Domingo;Precios
+1;22;4;77;Masculino;Miraflores;CINEPLANET;Amplio Estacionamiento;Bueno;Miercoles;Puntualidad
+5;40;24;22;Femenino;Surco;UVK;Buena Atención;Pésimo;Martes;Promociones
+1;57;12;55;Femenino;La Molina;UVK;Calidad de Salas;Excelente;Sabado;Puntualidad
+1;14;2;83;Femenino;Lince;UVK;Buena Atención;Malo;Martes;Seguridad
+1;81;2;83;Femenino;San Borja;CINEMARK;Ubicación;Excelente;Viernes;Seguridad
+3;45;11;58;Femenino;Surco;CINEMARK;Buena Atención;Excelente;Miercoles;Horarios
+3;38;6;72;Femenino;Surco;MOVIETIME;Amplio Estacionamiento;Muy Malo;Martes;Puntualidad
+1;39;7;53;Femenino;San Juan de Lurigancho;UVK;Buenos Precios;Muy bueno;Sabado;Promociones
+1;73;7;53;Femenino;San Borja;CINEPLANET;Buena Cartelera;Regular;Viernes;Puntualidad
+1;46;13;52;Femenino;San Juan de Lurigancho;OTRO;Amplio Estacionamiento;Bueno;Martes;Promociones
+4;23;11;58;Femenino;San Borja;UVK;Amplio Estacionamiento;Bueno;Sabado;Higiene
+1;55;28;13;Masculino;Surco;CINESTAR;Ubicación;Muy Malo;Martes;Comodidad
+5;30;28;13;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Pésimo;Martes;Comodidad
+1;38;10;51;Femenino;Surco;UVK;Buena Cartelera;Muy bueno;Domingo;Puntualidad
+1;11;10;51;Femenino;San Borja;CINEMARK;Ubicación;Excelente;Viernes;Horarios
+4;55;1;85;Femenino;San Miguel;UVK;Calidad de Salas;Muy Malo;Martes;Promociones
+1;87;1;85;Masculino;Barranco;CINEMARK;Buena Cartelera;Bueno;Martes;Puntualidad
+4;13;7;53;Femenino;Lince;UVK;Buena Atención;Malo;Martes;Puntualidad
+2;27;2;83;Masculino;Lince;CINESTAR;Amplio Estacionamiento;Malo;Sabado;Puntualidad
+1;41;28;13;Masculino;Miraflores;CINEPLANET;Amplio Estacionamiento;Excelente;Lunes;Puntualidad
+1;23;8;55;Femenino;San Miguel;CINEMARK;Buena Cartelera;Excelente;Martes;Comodidad
+3;67;7;53;Femenino;Lince;UVK;Buena Cartelera;Pésimo;Jueves;Precios
+4;63;13;52;Femenino;San Miguel;CINEPLANET;Buena Atención;Regular;Viernes;Horarios
+4;29;16;44;Femenino;Surco;CINESTAR;Buenos Precios;Excelente;Sabado;Puntualidad
+4;88;12;55;Femenino;Lince;CINEPLANET;Amplio Estacionamiento;Regular;Sabado;Promociones
+2;79;12;55;Masculino;Surco;CINEMARK;Buenos Precios;Malo;Sabado;Horarios
+1;33;13;52;Masculino;Lince;CINEMARK;Buena Atención;Malo;Martes;Puntualidad
+3;43;3;83;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Muy bueno;Jueves;Higiene
+3;60;14;43;Masculino;Barranco;CINEMARK;Calidad de Salas;Malo;Viernes;Puntualidad
+6;73;28;13;Femenino;Lince;MOVIETIME;Buena Cartelera;Muy bueno;Viernes;Seguridad
+5;72;6;72;Femenino;Los Olivos;CINEPLANET;Amplio Estacionamiento;Bueno;Sabado;Seguridad
+5;67;2;83;Femenino;Los Olivos;UVK;Ubicación;Bueno;Miercoles;Higiene
+5;54;17;41;Femenino;Barranco;CINESTAR;Amplio Estacionamiento;Regular;Sabado;Promociones
+6;26;7;53;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Excelente;Sabado;Seguridad
+2;30;11;58;Femenino;San Miguel;CINEMARK;Buena Atención;Malo;Miercoles;Seguridad
+2;41;9;53;Masculino;San Borja;UVK;Amplio Estacionamiento;Malo;Martes;Precios
+5;33;6;72;Femenino;Surco;MOVIETIME;Calidad de Salas;Muy bueno;Martes;Puntualidad
+5;41;10;51;Femenino;Surco;CINEPLANET;Buena Cartelera;Muy bueno;Lunes;Promociones
+4;39;7;53;Femenino;La Molina;CINEPLANET;Calidad de Salas;Muy Malo;Sabado;Comodidad
+1;42;4;77;Femenino;Surco;CINEMARK;Ubicación;Muy bueno;Viernes;Promociones
+1;25;12;55;Femenino;La Molina;UVK;Buena Atención;Excelente;Sabado;Horarios
+3;73;17;41;Femenino;Miraflores;CINEPLANET;Buenos Precios;Muy Malo;Martes;Comodidad
+4;40;3;83;Femenino;San Borja;CINEMARK;Buena Cartelera;Muy bueno;Martes;Horarios
+5;14;1;85;Femenino;Los Olivos;CINEPLANET;Buenos Precios;Bueno;Viernes;Seguridad
+5;33;2;83;Masculino;San Miguel;CINEMARK;Ubicación;Excelente;Martes;Precios
+4;42;7;53;Masculino;Miraflores;CINEMARK;Buena Atención;Excelente;Martes;Higiene
+1;35;10;51;Femenino;San Juan de Lurigancho;CINEMARK;Buena Atención;Malo;Martes;Horarios
+1;35;28;13;Masculino;Surco;UVK;Calidad de Salas;Bueno;Martes;Comodidad
+2;60;24;22;Masculino;Los Olivos;OTRO;Ubicación;Muy Malo;Martes;Promociones
+1;32;2;83;Femenino;Miraflores;UVK;Buenos Precios;Muy Malo;Martes;Higiene
+3;65;6;72;Femenino;San Miguel;UVK;Calidad de Salas;Muy bueno;Martes;Horarios
+1;38;24;22;Femenino;San Miguel;CINEMARK;Calidad de Salas;Muy bueno;Martes;Promociones
+2;26;4;77;Masculino;Barranco;OTRO;Buena Atención;Excelente;Martes;Promociones
+2;12;24;22;Femenino;Lince;OTRO;Ubicación;Excelente;Jueves;Horarios
+5;69;10;51;Femenino;San Miguel;CINESTAR;Buena Atención;Bueno;Viernes;Promociones
+1;36;3;83;Masculino;San Borja;CINEPLANET;Calidad de Salas;Bueno;Viernes;Seguridad
+6;71;5;75;Femenino;Barranco;UVK;Ubicación;Excelente;Martes;Promociones
+4;40;2;83;Femenino;Lince;CINESTAR;Buena Atención;Excelente;Viernes;Horarios
+6;40;4;77;Femenino;Los Olivos;UVK;Buena Atención;Muy bueno;Martes;Precios
+5;35;9;53;Femenino;Surco;CINEMARK;Buena Atención;Muy bueno;Martes;Horarios
+1;40;2;83;Femenino;La Molina;UVK;Calidad de Salas;Muy bueno;Jueves;Promociones
+1;14;6;72;Femenino;La Molina;CINESTAR;Ubicación;Pésimo;Miercoles;Seguridad
+5;79;16;44;Masculino;Lince;UVK;Buenos Precios;Excelente;Viernes;Precios
+3;87;13;52;Femenino;Lince;UVK;Calidad de Salas;Bueno;Viernes;Precios
+5;42;7;53;Femenino;Surco;CINEPLANET;Calidad de Salas;Excelente;Viernes;Promociones
+6;11;2;83;Masculino;La Molina;CINEMARK;Buenos Precios;Malo;Domingo;Comodidad
+1;38;7;53;Masculino;San Borja;UVK;Amplio Estacionamiento;Bueno;Lunes;Horarios
+4;25;13;52;Femenino;San Juan de Lurigancho;UVK;Calidad de Salas;Pésimo;Miercoles;Higiene
+4;48;2;83;Masculino;Barranco;CINEMARK;Buenos Precios;Malo;Jueves;Promociones
+3;71;10;51;Masculino;Barranco;CINEMARK;Buena Atención;Excelente;Sabado;Comodidad
+1;69;4;77;Femenino;La Molina;UVK;Buena Cartelera;Excelente;Domingo;Horarios
+5;57;4;77;Masculino;Surco;CINEPLANET;Ubicación;Muy bueno;Miercoles;Horarios
+3;68;6;72;Femenino;San Borja;CINEMARK;Buena Cartelera;Muy bueno;Lunes;Comodidad
+1;42;17;41;Femenino;Barranco;CINESTAR;Calidad de Salas;Excelente;Martes;Higiene
+1;42;9;53;Femenino;San Borja;CINEMARK;Ubicación;Excelente;Sabado;Higiene
+1;63;5;75;Femenino;La Molina;UVK;Ubicación;Muy Malo;Miercoles;Promociones
+1;48;2;83;Masculino;La Molina;CINEPLANET;Amplio Estacionamiento;Regular;Jueves;Horarios
+1;37;4;77;Femenino;San Borja;MOVIETIME;Calidad de Salas;Muy bueno;Viernes;Puntualidad
+1;45;3;83;Femenino;Barranco;CINEMARK;Buena Cartelera;Muy bueno;Martes;Comodidad
+3;38;6;72;Femenino;San Juan de Lurigancho;CINEPLANET;Calidad de Salas;Pésimo;Sabado;Precios
+5;24;7;53;Masculino;Surco;CINEMARK;Buenos Precios;Bueno;Martes;Precios
+2;42;16;44;Femenino;San Miguel;MOVIETIME;Calidad de Salas;Excelente;Martes;Puntualidad
+0;27;2;83;Masculino;Miraflores;CINEPLANET;Amplio Estacionamiento;Muy bueno;Viernes;Seguridad
+1;30;25;13;Masculino;San Borja;UVK;Amplio Estacionamiento;Bueno;Martes;Horarios
+3;40;28;13;Femenino;San Juan de Lurigancho;UVK;Buena Cartelera;Bueno;Viernes;Horarios
+1;80;17;41;Masculino;San Juan de Lurigancho;MOVIETIME;Buena Cartelera;Muy Malo;Martes;Seguridad
+5;60;11;58;Femenino;Miraflores;CINESTAR;Calidad de Salas;Muy bueno;Viernes;Precios
+1;61;1;85;Femenino;San Juan de Lurigancho;CINEMARK;Amplio Estacionamiento;Excelente;Domingo;Puntualidad
+3;68;7;53;Femenino;San Borja;UVK;Ubicación;Excelente;Jueves;Promociones
+1;29;1;85;Masculino;Barranco;CINESTAR;Buenos Precios;Muy bueno;Lunes;Puntualidad
+1;25;13;52;Femenino;San Borja;CINESTAR;Amplio Estacionamiento;Muy bueno;Sabado;Seguridad
+3;77;9;53;Masculino;Barranco;UVK;Buena Cartelera;Regular;Martes;Puntualidad
+5;36;2;83;Femenino;Surco;UVK;Calidad de Salas;Bueno;Martes;Horarios
+5;71;2;83;Femenino;Miraflores;CINEMARK;Calidad de Salas;Regular;Martes;Horarios
+3;51;14;43;Femenino;San Borja;CINEPÓLIS;Calidad de Salas;Pésimo;Domingo;Precios
+3;30;13;52;Masculino;Surco;CINEMARK;Buenos Precios;Muy Malo;Martes;Puntualidad
+4;76;2;83;Masculino;Lince;CINEPLANET;Amplio Estacionamiento;Malo;Martes;Promociones
+3;76;1;85;Masculino;Miraflores;CINEPLANET;Buena Cartelera;Excelente;Viernes;Precios
+2;14;30;14;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Malo;Martes;Puntualidad
+4;55;4;77;Femenino;San Juan de Lurigancho;CINEPLANET;Buenos Precios;Excelente;Viernes;Horarios
+3;49;3;83;Femenino;La Molina;CINESTAR;Amplio Estacionamiento;Malo;Sabado;Comodidad
+0;43;2;83;Masculino;Miraflores;UVK;Amplio Estacionamiento;Bueno;Martes;Promociones
+1;50;4;77;Masculino;San Miguel;CINESTAR;Ubicación;Bueno;Lunes;Puntualidad
+5;24;11;58;Masculino;Miraflores;CINEMARK;Buena Atención;Bueno;Viernes;Horarios
+0;69;14;43;Masculino;San Miguel;CINESTAR;Buena Atención;Muy Malo;Sabado;Horarios
+5;10;1;85;Masculino;San Juan de Lurigancho;CINEMARK;Ubicación;Regular;Miercoles;Horarios
+2;37;16;44;Femenino;La Molina;CINEMARK;Buena Cartelera;Muy Malo;Miercoles;Promociones
+1;10;1;85;Masculino;La Molina;CINESTAR;Amplio Estacionamiento;Pésimo;Jueves;Puntualidad
+2;50;17;41;Masculino;Barranco;CINESTAR;Calidad de Salas;Muy bueno;Martes;Horarios
+2;23;8;55;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Muy Malo;Martes;Comodidad
+4;77;11;58;Masculino;Miraflores;CINEMARK;Buena Cartelera;Excelente;Miercoles;Horarios
+4;49;7;53;Masculino;Los Olivos;CINEPLANET;Buenos Precios;Muy bueno;Martes;Puntualidad
+4;88;14;43;Femenino;Barranco;CINEMARK;Ubicación;Muy bueno;Jueves;Horarios
+2;36;2;83;Femenino;Surco;UVK;Buena Atención;Muy Malo;Jueves;Precios
+5;37;5;75;Masculino;San Borja;CINEPLANET;Amplio Estacionamiento;Muy bueno;Sabado;Comodidad
+2;75;16;44;Masculino;Miraflores;CINEPÓLIS;Buenos Precios;Malo;Martes;Comodidad
+3;39;2;83;Femenino;Surco;CINESTAR;Amplio Estacionamiento;Bueno;Sabado;Comodidad
+3;72;5;75;Masculino;La Molina;CINESTAR;Calidad de Salas;Pésimo;Jueves;Promociones
+1;32;11;58;Femenino;La Molina;UVK;Buena Atención;Muy bueno;Miercoles;Puntualidad
+1;40;5;75;Masculino;La Molina;CINEPÓLIS;Buenos Precios;Malo;Miercoles;Precios
+4;73;5;75;Masculino;Los Olivos;CINEPLANET;Buenos Precios;Excelente;Lunes;Promociones
+1;68;2;83;Masculino;Surco;CINEMARK;Calidad de Salas;Muy bueno;Sabado;Higiene
+5;36;2;85;Femenino;La Molina;CINEMARK;Calidad de Salas;Excelente;Martes;Seguridad
+1;83;2;83;Masculino;Surco;CINESTAR;Buena Atención;Malo;Viernes;Puntualidad
+4;28;5;75;Masculino;Surco;CINESTAR;Ubicación;Muy bueno;Miercoles;Horarios
+6;28;2;83;Femenino;San Borja;CINEPLANET;Calidad de Salas;Malo;Viernes;Puntualidad
+4;22;4;83;Masculino;Los Olivos;UVK;Buena Cartelera;Pésimo;Martes;Seguridad
+4;67;8;55;Masculino;Surco;CINESTAR;Amplio Estacionamiento;Bueno;Miercoles;Puntualidad
+1;82;1;85;Femenino;Barranco;CINEPLANET;Ubicación;Excelente;Sabado;Seguridad
+1;40;2;83;Femenino;San Juan de Lurigancho;CINESTAR;Buena Atención;Regular;Martes;Precios
+3;39;2;83;Femenino;Los Olivos;CINEMARK;Buena Atención;Bueno;Martes;Seguridad
+4;71;1;85;Masculino;Surco;CINEMARK;Buena Atención;Muy Malo;Domingo;Horarios
+1;11;11;58;Masculino;La Molina;CINESTAR;Buena Atención;Malo;Sabado;Promociones
+4;36;8;55;Femenino;Los Olivos;UVK;Amplio Estacionamiento;Muy bueno;Viernes;Puntualidad
+2;47;7;53;Masculino;Surco;UVK;Calidad de Salas;Muy bueno;Viernes;Horarios
+5;40;27;13;Femenino;Miraflores;CINEPÓLIS;Calidad de Salas;Malo;Jueves;Promociones
+4;24;2;83;Femenino;La Molina;UVK;Buenos Precios;Muy bueno;Martes;Comodidad
+4;25;12;55;Masculino;San Miguel;CINESTAR;Buena Cartelera;Pésimo;Jueves;Comodidad
+1;46;1;85;Masculino;San Miguel;CINEMARK;Buenos Precios;Malo;Martes;Puntualidad
+6;11;2;83;Femenino;Surco;CINEPLANET;Buena Atención;Muy bueno;Sabado;Comodidad
+6;22;7;53;Femenino;Barranco;CINEMARK;Buena Atención;Muy bueno;Jueves;Precios
+2;38;11;58;Femenino;Los Olivos;UVK;Buena Atención;Muy bueno;Martes;Promociones
+4;35;1;85;Masculino;La Molina;CINEMARK;Calidad de Salas;Muy bueno;Viernes;Horarios
+1;35;5;75;Femenino;Barranco;CINEMARK;Ubicación;Muy bueno;Viernes;Promociones
+1;50;2;83;Femenino;Miraflores;CINEMARK;Buena Cartelera;Regular;Martes;Horarios
+2;40;5;75;Femenino;Lince;CINEMARK;Calidad de Salas;Excelente;Martes;Horarios
+1;43;9;53;Femenino;San Miguel;CINEPÓLIS;Calidad de Salas;Muy bueno;Miercoles;Seguridad
+1;33;10;51;Masculino;La Molina;CINEMARK;Buena Atención;Regular;Miercoles;Seguridad
+1;34;16;44;Femenino;Los Olivos;CINEMARK;Buena Atención;Excelente;Miercoles;Promociones
+2;32;4;83;Femenino;San Borja;CINEMARK;Buena Atención;Bueno;Martes;Puntualidad
+6;54;14;43;Masculino;San Miguel;UVK;Buena Cartelera;Regular;Viernes;Precios
+1;72;5;75;Femenino;San Borja;CINEMARK;Buena Atención;Regular;Domingo;Puntualidad
+2;87;2;83;Masculino;Surco;CINEPÓLIS;Calidad de Salas;Excelente;Viernes;Higiene
+4;40;27;12;Masculino;San Miguel;CINESTAR;Amplio Estacionamiento;Excelente;Lunes;Seguridad
+3;13;1;85;Femenino;Surco;CINERAMA;Buena Atención;Muy Malo;Jueves;Horarios
+2;34;2;83;Femenino;Surco;CINESTAR;Buenos Precios;Excelente;Domingo;Precios
+5;89;2;83;Femenino;Miraflores;CINEPLANET;Buena Cartelera;Malo;Martes;Higiene
+1;23;8;55;Femenino;San Borja;CINESTAR;Amplio Estacionamiento;Muy bueno;Domingo;Precios
+1;49;7;53;Masculino;Surco;CINEMARK;Buena Atención;Excelente;Domingo;Seguridad
+2;82;4;77;Femenino;San Juan de Lurigancho;CINEMARK;Buenos Precios;Regular;Martes;Puntualidad
+1;38;6;72;Femenino;Barranco;CINERAMA;Buenos Precios;Excelente;Martes;Puntualidad
+3;40;16;44;Femenino;San Miguel;UVK;Buenos Precios;Muy Malo;Viernes;Comodidad
+5;20;17;41;Femenino;La Molina;CINEMARK;Ubicación;Bueno;Viernes;Comodidad
+4;38;1;85;Femenino;Lince;CINEPLANET;Amplio Estacionamiento;Muy bueno;Sabado;Promociones
+4;25;4;77;Masculino;La Molina;CINEPLANET;Calidad de Salas;Excelente;Martes;Comodidad
+1;49;7;53;Femenino;Los Olivos;CINEMARK;Buenos Precios;Pésimo;Martes;Seguridad
+1;31;1;85;Masculino;San Borja;CINEPLANET;Amplio Estacionamiento;Excelente;Domingo;Seguridad
+4;36;7;53;Femenino;Barranco;CINEPLANET;Buenos Precios;Muy bueno;Sabado;Puntualidad
+3;38;27;13;Femenino;Los Olivos;CINEMARK;Ubicación;Bueno;Martes;Puntualidad
+3;40;6;72;Femenino;Miraflores;UVK;Ubicación;Muy Malo;Martes;Promociones
+6;77;7;53;Femenino;Miraflores;CINEPLANET;Buena Atención;Muy Malo;Viernes;Seguridad
+1;38;2;83;Femenino;San Miguel;UVK;Calidad de Salas;Muy bueno;Viernes;Promociones
+4;79;1;85;Femenino;San Juan de Lurigancho;CINEMARK;Buena Cartelera;Excelente;Viernes;Puntualidad
+1;19;1;85;Masculino;Lince;CINEMARK;Buena Atención;Muy bueno;Martes;Precios
+4;37;13;52;Masculino;Miraflores;CINESTAR;Amplio Estacionamiento;Excelente;Viernes;Promociones
+5;70;7;53;Femenino;San Borja;CINERAMA;Calidad de Salas;Excelente;Miercoles;Puntualidad
+5;21;27;13;Femenino;Surco;CINESTAR;Buena Atención;Muy Malo;Martes;Horarios
+4;44;5;75;Masculino;Barranco;CINESTAR;Amplio Estacionamiento;Excelente;Domingo;Horarios
+1;46;5;75;Femenino;Los Olivos;CINERAMA;Buenos Precios;Regular;Domingo;Puntualidad
+1;47;2;83;Femenino;Surco;CINESTAR;Buena Atención;Excelente;Jueves;Horarios
+3;32;14;43;Femenino;Barranco;CINESTAR;Calidad de Salas;Pésimo;Viernes;Comodidad
+5;35;11;58;Femenino;Surco;CINESTAR;Buena Atención;Muy bueno;Sabado;Horarios
+5;83;4;77;Masculino;Los Olivos;UVK;Buena Cartelera;Muy Malo;Viernes;Higiene
+2;34;4;77;Femenino;Miraflores;CINESTAR;Buenos Precios;Malo;Jueves;Horarios
+1;77;30;14;Femenino;Barranco;CINEMARK;Buena Atención;Regular;Martes;Horarios
+4;38;5;75;Femenino;Barranco;UVK;Buena Cartelera;Excelente;Lunes;Horarios
+5;12;3;83;Femenino;San Borja;CINEPLANET;Ubicación;Muy bueno;Sabado;Seguridad
+4;42;5;75;Femenino;San Borja;CINEMARK;Buena Cartelera;Regular;Viernes;Higiene
+4;68;12;55;Masculino;San Juan de Lurigancho;UVK;Amplio Estacionamiento;Excelente;Miercoles;Puntualidad
+2;33;2;85;Femenino;Miraflores;CINEMARK;Buenos Precios;Muy Malo;Sabado;Precios
+1;30;16;44;Femenino;San Juan de Lurigancho;CINEMARK;Buena Cartelera;Malo;Viernes;Puntualidad
+6;33;16;44;Femenino;Los Olivos;CINERAMA;Buena Atención;Regular;Domingo;Promociones
+1;45;11;58;Masculino;San Borja;CINESTAR;Ubicación;Muy Malo;Sabado;Promociones
+4;47;6;72;Femenino;Lince;UVK;Buenos Precios;Malo;Viernes;Precios
+5;27;2;83;Femenino;Surco;CINEMARK;Buena Cartelera;Muy bueno;Sabado;Promociones
+5;26;5;75;Masculino;La Molina;CINEMARK;Calidad de Salas;Pésimo;Viernes;Promociones
+4;72;8;55;Masculino;Surco;CINEPLANET;Calidad de Salas;Malo;Domingo;Higiene
+3;36;1;85;Femenino;Barranco;CINEMARK;Buena Atención;Excelente;Martes;Precios
+3;35;6;72;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Regular;Domingo;Comodidad
+1;28;9;53;Femenino;Surco;UVK;Buena Atención;Excelente;Viernes;Precios
+2;20;5;75;Femenino;Barranco;UVK;Calidad de Salas;Excelente;Viernes;Higiene
+1;33;2;83;Masculino;Surco;CINEMARK;Buenos Precios;Regular;Martes;Horarios
+3;37;1;85;Femenino;Barranco;CINESTAR;Amplio Estacionamiento;Regular;Martes;Comodidad
+1;24;11;58;Femenino;San Juan de Lurigancho;CINEMARK;Calidad de Salas;Excelente;Lunes;Higiene
+4;79;17;41;Masculino;San Borja;CINEPLANET;Buena Cartelera;Pésimo;Martes;Puntualidad
+6;82;5;75;Masculino;San Miguel;CINEMARK;Buena Cartelera;Excelente;Sabado;Promociones
+4;40;14;43;Masculino;Barranco;UVK;Amplio Estacionamiento;Muy bueno;Martes;Higiene
+6;69;8;55;Masculino;Miraflores;UVK;Buenos Precios;Malo;Lunes;Horarios
+3;47;11;58;Masculino;San Juan de Lurigancho;UVK;Buena Atención;Malo;Sabado;Puntualidad
+1;71;13;52;Femenino;Surco;CINESTAR;Buena Atención;Muy Malo;Domingo;Puntualidad
+6;40;1;85;Femenino;San Borja;CINERAMA;Buena Atención;Bueno;Jueves;Promociones
+1;54;13;52;Femenino;Surco;UVK;Amplio Estacionamiento;Excelente;Miercoles;Promociones
+3;38;11;58;Femenino;La Molina;UVK;Buena Cartelera;Muy bueno;Viernes;Horarios
+2;78;6;72;Masculino;San Borja;CINEPLANET;Calidad de Salas;Muy bueno;Viernes;Puntualidad
+3;33;2;83;Femenino;Miraflores;CINEPLANET;Amplio Estacionamiento;Muy bueno;Viernes;Seguridad
+5;78;2;83;Femenino;La Molina;CINESTAR;Calidad de Salas;Bueno;Viernes;Puntualidad
+3;14;10;51;Masculino;San Juan de Lurigancho;UVK;Amplio Estacionamiento;Excelente;Viernes;Horarios
+1;31;7;53;Femenino;Surco;UVK;Calidad de Salas;Malo;Martes;Puntualidad
+1;13;7;53;Masculino;Surco;CINESTAR;Amplio Estacionamiento;Muy bueno;Domingo;Comodidad
+1;68;2;83;Femenino;Surco;CINEMARK;Buenos Precios;Muy Malo;Sabado;Horarios
+1;74;1;85;Femenino;Barranco;CINEMARK;Ubicación;Muy Malo;Lunes;Precios
+3;81;12;55;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Pésimo;Martes;Puntualidad
+6;57;7;53;Masculino;San Juan de Lurigancho;CINEMARK;Ubicación;Muy Malo;Martes;Precios
+3;20;9;53;Femenino;Lince;CINEMARK;Buena Cartelera;Bueno;Viernes;Horarios
+3;44;7;53;Femenino;Surco;CINEPLANET;Ubicación;Muy bueno;Martes;Comodidad
+1;33;1;85;Masculino;Los Olivos;CINEMARK;Ubicación;Muy bueno;Viernes;Puntualidad
+1;40;7;53;Femenino;San Borja;CINEMARK;Buenos Precios;Bueno;Sabado;Seguridad
+4;38;6;72;Masculino;Barranco;UVK;Calidad de Salas;Excelente;Viernes;Seguridad
+6;77;2;83;Masculino;Surco;CINERAMA;Buena Cartelera;Muy bueno;Martes;Puntualidad
+1;35;4;77;Femenino;San Juan de Lurigancho;CINEPLANET;Buenos Precios;Excelente;Lunes;Seguridad
+3;40;14;43;Masculino;San Miguel;UVK;Buenos Precios;Excelente;Martes;Promociones
+2;44;6;72;Femenino;Miraflores;UVK;Ubicación;Excelente;Lunes;Seguridad
+4;21;9;53;Femenino;Lince;CINEMARK;Buenos Precios;Muy bueno;Sabado;Horarios
+1;73;6;72;Femenino;La Molina;UVK;Amplio Estacionamiento;Malo;Martes;Horarios
+4;65;5;75;Masculino;San Borja;CINEMARK;Buena Atención;Muy bueno;Lunes;Seguridad
+3;77;2;83;Femenino;San Juan de Lurigancho;UVK;Buena Atención;Muy bueno;Lunes;Horarios
+1;37;5;75;Femenino;Miraflores;UVK;Ubicación;Malo;Viernes;Comodidad
+1;30;7;53;Femenino;San Borja;CINEPLANET;Buena Atención;Excelente;Jueves;Seguridad
+3;37;4;77;Femenino;San Miguel;CINEMARK;Ubicación;Bueno;Martes;Precios
+2;35;9;53;Femenino;Surco;CINERAMA;Buenos Precios;Muy Malo;Lunes;Horarios
+5;11;8;55;Femenino;Barranco;CINESTAR;Calidad de Salas;Muy Malo;Jueves;Horarios
+4;46;2;83;Masculino;Surco;CINESTAR;Buena Cartelera;Excelente;Viernes;Seguridad
+4;27;3;83;Femenino;Surco;UVK;Ubicación;Excelente;Jueves;Comodidad
+3;29;14;43;Masculino;Miraflores;CINERAMA;Calidad de Salas;Bueno;Lunes;Seguridad
+1;38;2;83;Femenino;San Juan de Lurigancho;UVK;Ubicación;Bueno;Martes;Puntualidad
+4;74;16;44;Femenino;Lince;CINEMARK;Amplio Estacionamiento;Excelente;Miercoles;Horarios
+5;40;1;85;Masculino;La Molina;CINEMARK;Ubicación;Muy bueno;Jueves;Horarios
+5;45;14;43;Femenino;San Juan de Lurigancho;UVK;Calidad de Salas;Muy Malo;Sabado;Comodidad
+2;40;4;77;Masculino;Los Olivos;UVK;Amplio Estacionamiento;Regular;Domingo;Puntualidad
+4;55;5;75;Masculino;San Miguel;CINEMARK;Ubicación;Excelente;Jueves;Horarios
+2;40;13;52;Masculino;San Miguel;UVK;Amplio Estacionamiento;Muy bueno;Martes;Puntualidad
+2;28;7;53;Femenino;Los Olivos;UVK;Ubicación;Muy bueno;Domingo;Puntualidad
+6;25;4;77;Masculino;Barranco;UVK;Amplio Estacionamiento;Pésimo;Domingo;Puntualidad
+6;57;17;41;Femenino;Lince;CINEMARK;Buena Atención;Malo;Sabado;Promociones
+4;21;6;72;Femenino;Surco;UVK;Buena Cartelera;Excelente;Viernes;Comodidad
+1;61;1;85;Masculino;Lince;CINEMARK;Amplio Estacionamiento;Pésimo;Domingo;Higiene
+2;39;1;85;Masculino;San Borja;CINESTAR;Amplio Estacionamiento;Pésimo;Martes;Seguridad
+1;38;14;43;Femenino;Barranco;UVK;Buena Cartelera;Bueno;Martes;Horarios
+2;13;9;53;Masculino;La Molina;CINESTAR;Buena Cartelera;Malo;Martes;Horarios
+4;37;17;41;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Muy bueno;Martes;Horarios
+3;49;13;52;Femenino;La Molina;CINERAMA;Ubicación;Muy Malo;Martes;Puntualidad
+3;40;7;53;Masculino;Barranco;CINESTAR;Buena Cartelera;Excelente;Martes;Higiene
+3;88;11;58;Masculino;San Borja;CINEMARK;Amplio Estacionamiento;Malo;Jueves;Precios
+4;55;5;75;Femenino;Surco;CINEMARK;Buena Atención;Muy bueno;Viernes;Horarios
+2;24;30;14;Femenino;La Molina;CINEMARK;Buena Cartelera;Bueno;Martes;Comodidad
+1;70;2;83;Femenino;Miraflores;CINEMARK;Calidad de Salas;Excelente;Lunes;Comodidad
+2;80;9;53;Femenino;Surco;UVK;Amplio Estacionamiento;Muy bueno;Viernes;Precios
+4;78;12;55;Femenino;San Miguel;CINEMARK;Buena Atención;Muy bueno;Martes;Puntualidad
+2;22;2;83;Femenino;Los Olivos;CINERAMA;Amplio Estacionamiento;Pésimo;Viernes;Horarios
+4;36;10;51;Femenino;Miraflores;CINEPLANET;Ubicación;Pésimo;Martes;Puntualidad
+4;20;6;72;Masculino;Surco;CINEMARK;Ubicación;Excelente;Miercoles;Puntualidad
+1;65;5;75;Masculino;Surco;UVK;Buena Cartelera;Excelente;Martes;Comodidad
+5;89;5;75;Femenino;Lince;CINESTAR;Buena Cartelera;Regular;Jueves;Puntualidad
+4;40;5;75;Femenino;Miraflores;CINESTAR;Buenos Precios;Excelente;Viernes;Promociones
+4;75;4;77;Femenino;Los Olivos;CINESTAR;Buena Cartelera;Bueno;Martes;Horarios
+1;38;5;75;Femenino;Los Olivos;CINESTAR;Amplio Estacionamiento;Excelente;Viernes;Seguridad
+3;13;7;53;Masculino;Barranco;CINEMARK;Buena Cartelera;Muy bueno;Sabado;Puntualidad
+4;42;4;77;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Malo;Viernes;Horarios
+1;61;12;55;Femenino;Lince;CINESTAR;Buenos Precios;Excelente;Martes;Seguridad
+4;46;2;83;Masculino;Miraflores;CINESTAR;Buena Atención;Muy bueno;Domingo;Promociones
+2;38;2;83;Masculino;Miraflores;UVK;Buenos Precios;Muy bueno;Domingo;Horarios
+5;46;4;77;Femenino;Barranco;CINESTAR;Amplio Estacionamiento;Excelente;Viernes;Puntualidad
+3;38;6;72;Femenino;Lince;CINEMARK;Buena Atención;Excelente;Lunes;Seguridad
+5;33;4;77;Femenino;Miraflores;CINESTAR;Buenos Precios;Pésimo;Martes;Higiene
+3;63;2;83;Femenino;Surco;CINESTAR;Ubicación;Excelente;Miercoles;Horarios
+6;46;9;53;Femenino;La Molina;CINESTAR;Buenos Precios;Excelente;Lunes;Higiene
+3;30;7;53;Masculino;Surco;CINEMARK;Buena Cartelera;Pésimo;Viernes;Seguridad
+4;27;6;72;Femenino;San Juan de Lurigancho;CINESTAR;Ubicación;Bueno;Viernes;Puntualidad
+1;54;5;75;Femenino;Los Olivos;UVK;Calidad de Salas;Malo;Lunes;Precios
+4;61;5;75;Femenino;Lince;CINESTAR;Ubicación;Muy Malo;Lunes;Puntualidad
+4;37;11;58;Femenino;San Juan de Lurigancho;CINEMARK;Buenos Precios;Pésimo;Viernes;Comodidad
+2;40;2;83;Femenino;Barranco;CINEMARK;Buena Cartelera;Muy bueno;Jueves;Horarios
+2;40;7;53;Femenino;Lince;CINEMARK;Buena Atención;Malo;Domingo;Precios
+3;43;8;55;Femenino;Miraflores;CINESTAR;Amplio Estacionamiento;Muy bueno;Viernes;Puntualidad
+0;14;10;51;Femenino;La Molina;CINEMARK;Calidad de Salas;Bueno;Jueves;Seguridad
+6;37;27;15;Masculino;Surco;UVK;Ubicación;Bueno;Domingo;Comodidad
+3;38;7;53;Femenino;Lince;CINERAMA;Calidad de Salas;Excelente;Martes;Higiene
+1;50;10;51;Masculino;San Borja;UVK;Calidad de Salas;Regular;Viernes;Seguridad
+3;38;2;83;Femenino;Surco;UVK;Amplio Estacionamiento;Muy Malo;Jueves;Horarios
+2;19;5;75;Masculino;Barranco;CINEMARK;Amplio Estacionamiento;Excelente;Viernes;Horarios
+1;29;7;53;Femenino;Lince;CINEMARK;Amplio Estacionamiento;Excelente;Martes;Horarios
+4;40;2;83;Masculino;San Juan de Lurigancho;UVK;Ubicación;Muy Malo;Martes;Seguridad
+1;39;14;43;Femenino;Lince;CINEMARK;Amplio Estacionamiento;Muy bueno;Domingo;Seguridad
+1;38;1;85;Masculino;San Juan de Lurigancho;CINEPLANET;Ubicación;Muy bueno;Miercoles;Horarios
+1;85;27;13;Masculino;La Molina;CINEPLANET;Buena Atención;Muy Malo;Viernes;Seguridad
+3;22;2;83;Femenino;San Miguel;CINEMARK;Buenos Precios;Muy bueno;Domingo;Promociones
+1;53;5;75;Masculino;San Miguel;CINEMARK;Buena Atención;Malo;Viernes;Promociones
+1;33;13;52;Femenino;Los Olivos;CINESTAR;Buenos Precios;Pésimo;Martes;Puntualidad
+1;35;7;73;Masculino;Surco;CINESTAR;Ubicación;Pésimo;Domingo;Puntualidad
+1;20;2;83;Femenino;Surco;CINEMARK;Buena Atención;Excelente;Lunes;Horarios
+2;34;12;55;Femenino;San Miguel;CINERAMA;Buenos Precios;Excelente;Domingo;Precios
+5;27;14;43;Femenino;Miraflores;CINESTAR;Ubicación;Malo;Sabado;Seguridad
+2;34;1;85;Masculino;La Molina;CINEMARK;Buena Cartelera;Malo;Martes;Seguridad
+4;31;7;53;Femenino;Surco;UVK;Calidad de Salas;Regular;Viernes;Puntualidad
+4;38;7;53;Masculino;San Borja;CINESTAR;Amplio Estacionamiento;Malo;Domingo;Comodidad
+2;21;27;13;Femenino;Miraflores;CINEPLANET;Buena Atención;Muy Malo;Domingo;Puntualidad
+3;53;9;53;Masculino;Lince;CINEPLANET;Buenos Precios;Malo;Jueves;Puntualidad
+1;89;14;43;Masculino;Los Olivos;CINEMARK;Buenos Precios;Malo;Lunes;Seguridad
+3;45;5;75;Femenino;San Juan de Lurigancho;CINESTAR;Buenos Precios;Excelente;Martes;Comodidad
+6;67;2;83;Masculino;Lince;CINEMARK;Calidad de Salas;Muy Malo;Domingo;Horarios
+5;26;14;43;Femenino;San Juan de Lurigancho;UVK;Buena Cartelera;Muy Malo;Martes;Promociones
+1;50;2;83;Femenino;Los Olivos;UVK;Buenos Precios;Muy bueno;Domingo;Horarios
+2;38;17;43;Femenino;Lince;UVK;Buena Cartelera;Malo;Lunes;Promociones
+0;24;4;77;Femenino;Barranco;CINEMARK;Amplio Estacionamiento;Muy Malo;Martes;Promociones
+4;49;1;85;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Excelente;Martes;Puntualidad
+1;40;4;77;Femenino;La Molina;CINESTAR;Buena Cartelera;Excelente;Domingo;Horarios
+1;49;2;83;Femenino;San Miguel;UVK;Buenos Precios;Excelente;Viernes;Precios
+1;25;11;58;Masculino;Surco;CINESTAR;Buenos Precios;Muy Malo;Martes;Horarios
+6;34;17;43;Femenino;Surco;CINERAMA;Buenos Precios;Excelente;Martes;Precios
+3;43;27;13;Femenino;Barranco;UVK;Buena Cartelera;Excelente;Viernes;Higiene
+4;40;4;77;Femenino;San Borja;UVK;Buenos Precios;Malo;Lunes;Higiene
+5;35;11;58;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Pésimo;Domingo;Higiene
+3;40;3;83;Femenino;Barranco;CINEMARK;Buenos Precios;Muy bueno;Miercoles;Seguridad
+3;36;9;55;Femenino;Los Olivos;CINEMARK;Amplio Estacionamiento;Muy bueno;Martes;Puntualidad
+1;60;9;55;Masculino;Miraflores;CINEPLANET;Calidad de Salas;Malo;Viernes;Higiene
+4;78;3;83;Masculino;San Borja;UVK;Amplio Estacionamiento;Muy bueno;Viernes;Higiene
+1;36;17;43;Femenino;San Miguel;UVK;Buena Cartelera;Muy bueno;Martes;Comodidad
+1;61;2;83;Femenino;La Molina;CINERAMA;Buenos Precios;Muy bueno;Jueves;Seguridad
+1;70;13;52;Femenino;Barranco;CINERAMA;Buenos Precios;Malo;Martes;Puntualidad
+3;35;4;77;Femenino;Surco;CINEMARK;Calidad de Salas;Excelente;Lunes;Horarios
+3;43;5;75;Masculino;San Miguel;UVK;Buena Cartelera;Malo;Domingo;Seguridad
+3;42;6;72;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Excelente;Viernes;Horarios
+2;46;11;58;Femenino;San Miguel;CINESTAR;Buenos Precios;Regular;Viernes;Horarios
+1;75;12;55;Femenino;Los Olivos;CINEMARK;Calidad de Salas;Regular;Jueves;Comodidad
+4;74;4;83;Femenino;Lince;CINEPLANET;Calidad de Salas;Malo;Jueves;Horarios
+2;79;4;83;Masculino;Miraflores;UVK;Buena Cartelera;Excelente;Martes;Higiene
+3;78;1;85;Femenino;Los Olivos;UVK;Buena Cartelera;Excelente;Viernes;Comodidad
+5;37;2;83;Masculino;San Juan de Lurigancho;CINERAMA;Calidad de Salas;Muy bueno;Martes;Precios
+6;23;13;55;Femenino;Barranco;CINEMARK;Buena Cartelera;Excelente;Domingo;Horarios
+5;22;6;72;Masculino;San Miguel;CINEMARK;Ubicación;Malo;Viernes;Puntualidad
+6;14;10;51;Masculino;La Molina;CINESTAR;Calidad de Salas;Excelente;Sabado;Horarios
+1;41;16;45;Masculino;La Molina;CINEMARK;Amplio Estacionamiento;Bueno;Martes;Horarios
+3;38;1;85;Masculino;Miraflores;CINERAMA;Amplio Estacionamiento;Muy Malo;Martes;Puntualidad
+6;26;12;55;Femenino;Surco;CINEMARK;Calidad de Salas;Malo;Martes;Puntualidad
+1;28;9;53;Femenino;Surco;CINESTAR;Buena Atención;Excelente;Martes;Higiene
+4;43;11;58;Femenino;San Borja;CINEMARK;Buena Atención;Muy Malo;Martes;Puntualidad
+4;12;2;83;Masculino;San Miguel;UVK;Ubicación;Malo;Domingo;Seguridad
+5;38;2;85;Masculino;Surco;CINEPLANET;Buena Atención;Muy bueno;Miercoles;Higiene
+1;80;2;83;Masculino;San Borja;CINESTAR;Calidad de Salas;Muy Malo;Viernes;Precios
+4;57;30;14;Femenino;Lince;CINEPLANET;Calidad de Salas;Bueno;Lunes;Seguridad
+1;72;2;83;Masculino;Los Olivos;CINERAMA;Amplio Estacionamiento;Muy bueno;Sabado;Precios
+5;36;14;43;Masculino;Lince;UVK;Buena Cartelera;Excelente;Martes;Higiene
+3;47;28;13;Femenino;Surco;CINEPLANET;Ubicación;Regular;Martes;Puntualidad
+3;40;16;44;Femenino;Surco;CINEMARK;Calidad de Salas;Muy Malo;Lunes;Horarios
+4;73;3;83;Masculino;Surco;CINERAMA;Buena Cartelera;Bueno;Lunes;Precios
+2;74;8;55;Femenino;Miraflores;CINESTAR;Ubicación;Excelente;Viernes;Puntualidad
+4;45;2;83;Femenino;Surco;CINESTAR;Amplio Estacionamiento;Pésimo;Domingo;Promociones
+5;10;1;85;Masculino;Miraflores;CINERAMA;Amplio Estacionamiento;Muy Malo;Viernes;Puntualidad
+1;25;4;75;Femenino;Lince;UVK;Ubicación;Malo;Martes;Comodidad
+4;28;6;73;Femenino;Barranco;CINERAMA;Buena Cartelera;Pésimo;Jueves;Higiene
+4;42;4;77;Masculino;Surco;CINEMARK;Buena Atención;Excelente;Sabado;Seguridad
+1;36;6;72;Masculino;Los Olivos;CINEPLANET;Buenos Precios;Excelente;Viernes;Puntualidad
+6;60;12;55;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Excelente;Domingo;Puntualidad
+1;26;10;51;Femenino;Surco;CINERAMA;Buena Atención;Muy Malo;Domingo;Horarios
+1;28;10;51;Femenino;San Juan de Lurigancho;CINESTAR;Buenos Precios;Pésimo;Martes;Horarios
+1;26;31;14;Masculino;San Juan de Lurigancho;CINERAMA;Buena Cartelera;Excelente;Lunes;Promociones
+1;72;7;73;Femenino;Los Olivos;UVK;Buena Cartelera;Muy bueno;Martes;Seguridad
+1;33;10;53;Masculino;Surco;CINEMARK;Ubicación;Bueno;Martes;Puntualidad
+5;80;7;53;Femenino;San Juan de Lurigancho;CINESTAR;Amplio Estacionamiento;Malo;Domingo;Higiene
+1;49;16;45;Femenino;Barranco;CINESTAR;Buena Atención;Muy Malo;Domingo;Promociones
+4;48;16;43;Femenino;Surco;UVK;Calidad de Salas;Muy Malo;Viernes;Promociones
